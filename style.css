@@ -44,7 +44,7 @@ header {
 }
 
 header>img {
-    width: 150px;
+    width: 35%;
 }
 
 .container {
@@ -71,7 +71,6 @@ header>img {
     justify-content: center;
     align-items: center;
     min-height: 200px;
-    
 }
 
 .traslation-text {
